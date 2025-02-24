@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-lsky-uploader",
+  "name": "Lsky Image Uploader",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Upload images to Lsky Pro image hosting service",
+  "author": "Your Name",
+  "isDesktopOnly": false
+}
